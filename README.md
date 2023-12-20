@@ -1,42 +1,29 @@
-# shak_privacy_policy
+#Privacy Policy for SHAK
 
-Last edited: 15-Dec-2023
+This Privacy Policy describes how "SHAK" collects, uses, and shares personal information when you use our mobile application.
 
-Thank you for using SHAK, a clothing mobile application developed for educational purposes. This Privacy Policy outlines how your personal information is collected, used and shared when you use out application.
+#Information We Collect
 
+Personal Information: When you create an account, we collect your name, email address, and phone number for authentication purposes and to provide personalized services within our app.
 
-INFORMATION WE COLLECT:
+Usage Data: We may collect information on how you use the app, such as the products viewed, added to cart, or added to wishlist. This data helps us improve our services and enhance user experience.
 
-        - Personal Information: 
-                When you create an account, we collect your email and password.
-                If you choose to log in via Google, we collect the necessary information as permitted 
-                by your Google account.
-                
-        - Order Information:
-                When you place an order, we collect information such as product details, shipping 
-                address and order history.
+#How We Use Your Information
 
-        - User Personal Informations:
-                Personal informations like Full name, phone number, date of birth, etc. are collected 
-                to display it to the page in the app itself.
+Authentication: Your name, email address,physical address and phone number are collected for authentication purposes only, enabling you to access and use our app securely.
 
-HOW WE USE YOUR INFORMATIOIN:
+Personalization: We may use the data collected on products viewed, cart items, and wishlists to personalize your experience and recommend products that may interest you.
 
-        We don't transfer the collected informations with anyone. We are using Firebase for storing data.
-        The collected data will be stored in the Firebase. We don't share that collected informations 
-        with any others or with any other third party applications.
+#Information Sharing
 
-SECURITY:
+Third Parties: We do not share your personal information with third parties. Your data is used solely within our app for authentication and enhancing your experience.
 
-        We prioritize the security of your information and employ reasonable measures to protect it.
-        However please be aware that no method of transmission over the internet or electronic storage is 
-        100% secure.
+Data Security: We take reasonable measures to protect your personal information from unauthorized access, alteration, or disclosure.
 
-CONTACT US:
+Firebase: SHAK integrates with Firebase for authentication and user data storage. Firebase's Privacy Policy governs the use of your data when using our app. Please refer to Firebase's Privacy Policy for more details: Link to Firebase Privacy Policy. Changes to This Policy
 
-        If you have any questions or concerns about this Privacy Policy, please contact us at 
-        saifulhamid126@gmail.com or +917591926222 (Whatsapp).
+Policy Changes: We reserve the right to update this Privacy Policy. Any changes will be notified within the app or via email. Contact Us
 
+#If you have any questions or concerns about our Privacy Policy, please contact us at [saifulhamid126@gmail.com].
 
-        
-                
+Please note that this is a general template and may require modifications to fit your specific app's functionalities and legal requirements. It's recommended to review and adjust the policy as necessary and consider consulting a legal professional for accuracy and compliance. Additionally, ensure the provided Firebase link directs users to Firebase's actual privacy policy page.
